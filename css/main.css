@@ -1,0 +1,33 @@
+header
+{
+  text-align: center;
+}
+
+footer
+{
+  text-align: center;
+}
+
+.mainContent
+{
+  height: 300px;
+}
+
+#shoppingcart
+{
+  position: relative;
+  bottom: 2em;
+  z-index: 1;
+}
+
+#shoppingcart .toggle
+{
+  background-color: gray;
+  text-align: center;
+}
+
+#shoppingcart .content
+{
+  background-color: lightgray;
+  height: 100px;
+}

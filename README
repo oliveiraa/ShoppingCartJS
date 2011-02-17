@@ -1,0 +1,9 @@
+This project goal is to create a shopping cart "widget" front-end using JQuery and KnockoutJS.
+
+The requirements are :
+  * A simple clickable area at the bottom of the page to expand the widget
+  * The widget must scroll sideways to allow the user to see all the items
+  * Adding items to the cart should be as simple as Cart.Add(jsonObj);
+
+There are lot's of open questions on how things will be done, but I plan to keep this repository updated as I go.
+I'll also try to create a simple documentation as the project evolves.
